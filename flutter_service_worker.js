@@ -3,18 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "adview.html": "0b6e1d96744233c052dcc07fccb30ca2",
+  "adview.html": "2699f17145e9c11d7349b7ed3a79a016",
 "version.json": "714ff95f27498b2ce9c6980e5e409460",
-"index.html": "d482e18d1d467b7097a7b0a9469b8e35",
-"/": "d482e18d1d467b7097a7b0a9469b8e35",
-"main.dart.js": "a084cb6163d1d5f0c419331cd404a9b9",
+"index.html": "510d7da0394038f71dbd553170622da4",
+"/": "510d7da0394038f71dbd553170622da4",
+"main.dart.js": "5bfbc9d0c1b032bea7c03adae8ccf324",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/kokki_clicker_219.png": "b7bc07727487d06d2e16cc70b635856a",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "4e210ce6e7155d81a19ac5872d8063fe",
 "favicon_kokki_clicker.png": "b7bc07727487d06d2e16cc70b635856a",
-"assets/AssetManifest.json": "4efc45435e0c9f3ba30ef3117a5bb252",
+"assets/AssetManifest.json": "5742e296d747ad4e42fae6fd169e2161",
 "assets/NOTICES": "197bff37f8658351360d4d7e602b8d67",
 "assets/FontManifest.json": "6dfd18f2654d3cab893a5d01a5be76ea",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -269,6 +269,7 @@ const RESOURCES = {
 "assets/assets/flags/wf.png": "4d99fc020f1d74a145262b4c1ed6306e",
 "assets/assets/flags/vu.png": "6598f160a9199835838cdb070f07bbdf",
 "assets/assets/flags/tj.png": "2077ed85b2a662f140fb39cd3aeadfa1",
+"assets/assets/sinproject-nameless.png": "5e5010d235ab3ee2cfc66ebe0a228011",
 "assets/assets/circle.png": "4a4dd1db63cb35a369c538d4b1c51396",
 "assets/assets/sounds/incorrect.mp3": "128d7c3fda8719a1144ca02eae1ac636",
 "assets/assets/sounds/correct.mp3": "327398cf406c26957d79628a73364758",
@@ -276,8 +277,8 @@ const RESOURCES = {
 "assets/assets/cross.png": "11a336bc0748b601598ca15c80144201",
 "assets/assets/sinproject.png": "46da728a43b0616af5e3c6d56841cdd8",
 "assets/assets/fonts/ReggaeOne-Regular.ttf": "c78477ecf5b2a3bc75c9f2fe15a626c6",
-"assets/assets/translations/ja.json": "e368ac382f9404c08fbfa281b888a930",
-"assets/assets/translations/en.json": "70a8255de9963795074ad871e3841e59"
+"assets/assets/translations/ja.json": "4881a9bc5ce0de1ad86c5b7684161308",
+"assets/assets/translations/en.json": "9709dab80965684110637a0b7e2d76b1"
 };
 
 // The application shell files that are downloaded before a service worker can
