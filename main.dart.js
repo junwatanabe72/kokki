@@ -63913,7 +63913,7 @@ I:function(a,b){var s=null,r=new K.a6b(this),q=P.aS(C.y.aQ(178.5),255,255,255),p
 return M.b5(s,T.iB(H.a([T.cd(T.j9(H.a([R.ft(C.cy,C.F,24,!0,"monthlyRanking")],p),C.ea),1),T.cd(T.j9(H.a([r.$1("rivals"),r.$1("overallRanking")],p),C.bh),6)],p),C.b9,C.bh,C.bi),C.n,q,s,s,s,s,s,s,s,s,s)}}
 K.a6b.prototype={
 $1:function(a){var s=null,r=this.a,q=t.X,p=t._,o=P.ab(["rivals",P.ab(["text","rivals","child",new X.p5(r.f,r.c,!1,s)],q,p),"overallRanking",P.ab(["text","overallRanking","child",new X.p5(r.e,s,!0,s)],q,p)],q,t.xS)
-return T.cd(M.b5(s,T.iB(H.a([R.ft(C.cy,C.F,24,!0,o.h(0,a).h(0,"text")),T.cd(new T.d9(new V.aG(0,8,0,0),o.h(0,a).h(0,"child"),s),1)],t.Z),C.b9,C.bh,C.bi),C.n,s,s,s,s,s,new V.aG(8,8,8,8),s,s,s,s),1)},
+return T.cd(M.b5(s,T.iB(H.a([R.ft(C.cy,C.F,24,!0,o.h(0,a).h(0,"text")),T.cd(new T.d9(new V.aG(0,8,0,0),o.h(0,a).h(0,"child"),s),1)],t.Z),C.b9,C.bh,C.bi),C.n,s,s,s,s,s,new V.aG(0,0,0,8),s,s,s,s),1)},
 $S:40}
 L.aev.prototype={
 $1:function(a){var s,r=document.createElement("iframe")
@@ -63944,7 +63944,7 @@ o=M.b5(p,new T.Di(C.b5,C.b5,M.b5(p,p,C.n,p,p,p,p,p,p,p,p,p,p),p),C.n,p,p,p,p,0,p
 s=q.e
 s=s==null?"":J.ey(J.ar(s,0),"icon_url")
 r=t.Z
-return M.b5(p,new Z.Dg(T.iB(H.a([o,M.b5(p,new T.d9(C.dr,T.hq(C.bs,H.a([M.b5(p,T.j9(H.a([M.b5(p,U.akd(s,new Z.a7b(),C.iH),C.n,p,p,p,p,40,p,C.oi,p,p,40),T.cd(new T.d9(C.EF,R.ft(C.b1,C.bv,18,!0,"appName"),p),1)],r),C.bh),C.n,p,p,p,p,40,p,p,p,p,p),new T.d9(C.tz,new T.dj(new K.cI(1,0.2),p,p,L.jj("2021.1.5",p,p,p,p,p,p,p,A.f6(p,p,C.tk,p,p,p,p,p,p,p,p,8,p,C.ky,p,p,!0,p,p,p,p,p,p),p,p,p),p),p),new T.d9(C.tz,new T.dj(new K.cI(1,1.2),p,p,L.jj("\xa9\ufe0e 2020 sinProject Inc.",p,p,p,p,p,p,p,A.f6(p,p,C.tk,p,p,p,p,p,p,p,p,12,p,p,p,p,!0,p,p,p,p,p,p),p,p,p),p),p)],r),C.bq),p),C.n,p,p,p,p,80,p,p,p,p,p),M.b5(p,T.iy(R.ft(C.b1,C.bv,12,!0,"recommended"),p,p),C.n,p,p,p,p,40,p,p,p,p,p),T.cd(B.akw(p,new Z.a7c(q),J.jS(J.b_(q.d),1)),1),Q.akv(new Z.a7d(q),T.iy(R.ft(C.b1,C.bv,12,!0,"credit"),p,p))],r),C.b9,C.bh,C.bi),p),C.n,p,p,p,p,p,p,p,p,p,250)}}
+return M.b5(p,new Z.Dg(T.iB(H.a([o,M.b5(p,new T.d9(C.dr,T.hq(C.bs,H.a([M.b5(p,T.j9(H.a([M.b5(p,U.akd(s,new Z.a7b(),C.iH),C.n,p,p,p,p,40,p,C.oi,p,p,40),T.cd(new T.d9(C.EF,R.ft(C.b1,C.bv,18,!0,"appName"),p),1)],r),C.bh),C.n,p,p,p,p,40,p,p,p,p,p),new T.d9(C.tz,new T.dj(new K.cI(1,0.2),p,p,L.jj("2021.1.5",p,p,p,p,p,p,p,A.f6(p,p,C.tk,p,p,p,p,p,p,p,p,8,p,C.ky,p,p,!0,p,p,p,p,p,p),p,p,p),p),p),new T.d9(C.tz,new T.dj(new K.cI(1,1.2),p,p,L.jj("\xa9\ufe0e 2020 sinProject Inc.",p,p,p,p,p,p,p,A.f6(p,p,C.tk,p,p,p,p,p,p,p,p,14,p,p,p,p,!0,p,p,p,p,p,p),p,p,p),p),p)],r),C.bq),p),C.n,p,p,p,p,80,p,p,p,p,p),M.b5(p,T.iy(R.ft(C.b1,C.bv,14,!0,"recommended"),p,p),C.n,p,p,p,p,40,p,p,p,p,p),T.cd(B.akw(p,new Z.a7c(q),J.jS(J.b_(q.d),1)),1),Q.akv(new Z.a7d(q),T.iy(R.ft(C.b1,C.bv,14,!0,"credit"),p,p))],r),C.b9,C.bh,C.bi),p),C.n,p,p,p,p,p,p,p,p,p,250)}}
 Z.a7e.prototype={
 $1:function(a){return J.d(J.ey(a,"app_name"),"Kokki \u30af\u30ea\u30c3\u30ab\u30fc")},
 $S:33}
@@ -63959,7 +63959,7 @@ $3:function(a,b,c){return U.akc("assets/sinproject-nameless.png",C.o_)},
 $S:146}
 Z.a7c.prototype={
 $2:function(a,b){var s,r=null,q=this.a,p=J.b_(q.d)
-if(b==null?p==null:b===p)return Q.akv(new Z.a78(q),T.iy(R.ft(C.b1,C.bv,12,!0,"seeMore"),r,r))
+if(b==null?p==null:b===p)return Q.akv(new Z.a78(q),T.iy(R.ft(C.b1,C.bv,14,!0,"seeMore"),r,r))
 p=M.b5(r,U.akd(J.ey(J.ar(q.d,b),"icon_url"),new Z.a79(),C.iH),C.n,r,r,r,r,40,r,C.oi,r,r,40)
 s=J.ar(q.d,b)
 return R.Ym(!1,!0,new T.d9(C.oj,T.j9(H.a([p,T.cd(new T.d9(C.tA,L.jj(J.ey(s,q.f?"title_jp":"title_en"),r,r,r,r,r,r,r,A.f6(r,r,r,r,r,r,r,r,r,r,r,r,r,C.h2,r,r,!0,r,r,r,r,r,r),r,r,r),r),1)],t.Z),C.bh),r),r,!0,r,r,r,r,r,r,r,r,r,new Z.a7a(q,b),r,r,r)},
