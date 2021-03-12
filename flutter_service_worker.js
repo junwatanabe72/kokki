@@ -5,9 +5,9 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "adview.html": "2699f17145e9c11d7349b7ed3a79a016",
 "version.json": "714ff95f27498b2ce9c6980e5e409460",
-"index.html": "3786106cb696da47f4e531debb6746e7",
-"/": "3786106cb696da47f4e531debb6746e7",
-"main.dart.js": "fa040cc89bab0114b8606a619c992209",
+"index.html": "c7ff2776f59ff85f5b513da026dd2a27",
+"/": "c7ff2776f59ff85f5b513da026dd2a27",
+"main.dart.js": "ca41470cac611ebd2d601d0dbe612de0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/kokki_clicker_219.png": "f26d7d6556eb8d8776e47848b03b739a",
@@ -277,8 +277,8 @@ const RESOURCES = {
 "assets/assets/cross.png": "11a336bc0748b601598ca15c80144201",
 "assets/assets/sinproject.png": "46da728a43b0616af5e3c6d56841cdd8",
 "assets/assets/fonts/ReggaeOne-Regular.ttf": "c78477ecf5b2a3bc75c9f2fe15a626c6",
-"assets/assets/translations/ja.json": "4881a9bc5ce0de1ad86c5b7684161308",
-"assets/assets/translations/en.json": "9709dab80965684110637a0b7e2d76b1"
+"assets/assets/translations/ja.json": "d1cda327c6f7da05459cf9208f2ea8f5",
+"assets/assets/translations/en.json": "bb5356700a6f2185f1241fd3a5b87fdd"
 };
 
 // The application shell files that are downloaded before a service worker can
