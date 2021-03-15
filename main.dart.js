@@ -64181,7 +64181,7 @@ F.a6G.prototype={
 $1$flex:function(a){var s=null,r=this.a
 if(r.d.a.a==="")return T.cl(M.b6(s,s,C.n,s,s,s,s,s,s,s,s,s,s),a)
 if(B.ji()==="")return T.cl(M.b6(s,s,C.n,s,s,s,s,s,s,s,s,s,s),a)
-return T.cl(new T.fu(new S.aJ(0,300,0,1/0),Q.rX(s,"text",50,!0,L.dI(this.b,C.b8,t.r).b.h(0,"play"),r.y,C.bT,0.8,8,0,300,C.bT),s),a)},
+return T.cl(new T.fu(new S.aJ(0,300,0,1/0),Q.rX(s,"text",50,!0,L.dI(this.b,C.b8,t.r).b.h(0,"play"),r.y,C.bT,0.8,8,100,230,C.bT),s),a)},
 $0:function(){return this.$1$flex(null)},
 $S:43}
 F.a6B.prototype={
@@ -64197,14 +64197,14 @@ $0:function(){return this.$1$flex(null)},
 $S:43}
 F.a6E.prototype={
 $1:function(a){var s=L.dI(this.b,C.b8,t.r).b.h(0,a)
-return Q.rX(null,"text",20,a===B.ji(),s,new F.a6D(this.a,a),C.bT,0.8,8,100,230,C.bT)},
+return Q.rX(null,"text",22,a===B.ji(),s,new F.a6D(this.a,a),C.bT,0.8,8,100,230,C.bT)},
 $S:70}
 F.a6D.prototype={
 $0:function(){this.a.z.$1(this.b)},
 $S:1}
 F.a6F.prototype={
 $1:function(a){var s=L.dI(this.b,C.b8,t.r).b.h(0,a)
-return Q.rX(null,"text",20,a===B.ji(),s,new F.a6C(this.a,a),C.bT,0.8,8,100,230,C.bT)},
+return Q.rX(null,"text",22,a===B.ji(),s,new F.a6C(this.a,a),C.bT,0.8,8,100,230,C.bT)},
 $S:70}
 F.a6C.prototype={
 $0:function(){this.a.z.$1(this.b)},
