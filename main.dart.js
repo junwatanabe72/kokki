@@ -64313,7 +64313,7 @@ window.location.href=s},
 $S:1}
 Z.a7K.prototype={
 $0:function(){P.hM(this.a.e)
-window.location.href="https://junwatanabe72.github.io/kokki/#/credit.html"},
+window.location.href="credits.html"},
 $S:1}
 Q.oR.prototype={
 kf:function(a){J.dW(a,new Q.a_8(this))},
