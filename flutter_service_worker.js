@@ -5,9 +5,9 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "adview.html": "2699f17145e9c11d7349b7ed3a79a016",
 "version.json": "714ff95f27498b2ce9c6980e5e409460",
-"index.html": "085b5689b91b84ff7a9c02c08ae381ae",
-"/": "085b5689b91b84ff7a9c02c08ae381ae",
-"main.dart.js": "4f59f6182d8c9997480f57c72481b900",
+"index.html": "9b1e09674345235309ddfda777d1a38a",
+"/": "9b1e09674345235309ddfda777d1a38a",
+"main.dart.js": "8e0e6a43b81a561c2da9814ec2d30662",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/kokki_clicker_219.png": "f26d7d6556eb8d8776e47848b03b739a",
