@@ -65817,7 +65817,7 @@ kZ:function(a){return this.ZM(a)},
 ZM:function(a){var s=0,r=P.y(t.z),q,p,o
 var $async$kZ=P.u(function(b,c){if(b===1)return P.v(c,r)
 while(true)switch(s){case 0:q=t.X
-p=P.a6(["correct","assets/assets/sounds/correct.mp3","incorrect","assets/assets/sounds/incorrect.mp3","gameClear","assets/assets/sounds/gameClear.mp3"],q,q)
+p=P.a6(["correct","assets/sounds/correct.mp3","incorrect","assets/sounds/incorrect.mp3","gameClear","assets/sounds/gameClear.mp3"],q,q)
 o=N.amU()
 s=2
 return P.t(o.rw(N.avv(P.fn("asset:///"+H.c(p.h(0,a)),0,null)),null,!0),$async$kZ)
