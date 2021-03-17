@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "adview.html": "941ee6155f0d528a5c5c557c80e5660e",
+  "adview.html": "8f09032c2d1767e010cbb608bda2e2a4",
 "version.json": "714ff95f27498b2ce9c6980e5e409460",
-"index.html": "47434c91ac16872950100f516a5e9e47",
-"/": "47434c91ac16872950100f516a5e9e47",
-"main.dart.js": "b81b38ef6ec87e2350829306c4dff1bb",
+"index.html": "178034a56835426968fae4ec19a13d75",
+"/": "178034a56835426968fae4ec19a13d75",
+"main.dart.js": "818db858748dc764fb77bdd2751b5c5a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/kokki_clicker_219.png": "f26d7d6556eb8d8776e47848b03b739a",
