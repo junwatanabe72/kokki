@@ -5,10 +5,10 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "adview.html": "8f09032c2d1767e010cbb608bda2e2a4",
 "version.json": "714ff95f27498b2ce9c6980e5e409460",
-"index.html": "38c18db25b82b4018f2570ef67159a33",
-"/": "38c18db25b82b4018f2570ef67159a33",
+"index.html": "ac27e42d8671f05353970c9830570a69",
+"/": "ac27e42d8671f05353970c9830570a69",
 "apple-touch-icon.png": "e7cf8bdfa3c27c6c1e48f84ea4d14553",
-"main.dart.js": "88404ac83b45bec2fd2ad247278b19e0",
+"main.dart.js": "a3735d8302aa7f471a9bce2abcdf5a06",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "9ddd92f2553ad7ef9d1276af89faa54f",
 "icons/kokki_clicker_219.png": "677041f165cfa801f4a71c5b8f514cb6",
@@ -279,8 +279,8 @@ const RESOURCES = {
 "assets/assets/sounds/main.mp3": "e48949cfa2e5002560ec3fcb7b573386",
 "assets/assets/logo.png": "677041f165cfa801f4a71c5b8f514cb6",
 "assets/assets/sinproject.png": "46da728a43b0616af5e3c6d56841cdd8",
-"assets/assets/translations/ja.json": "ac9ea922f626de27551b720c59bb5b61",
-"assets/assets/translations/en.json": "ea1a8b3bb90f6064276f2eb2499b3ab5"
+"assets/assets/translations/ja.json": "437a7631e1f8465d3e004e3a9999d08a",
+"assets/assets/translations/en.json": "385aa9577cbb967d100f4b19bf9e7b33"
 };
 
 // The application shell files that are downloaded before a service worker can
