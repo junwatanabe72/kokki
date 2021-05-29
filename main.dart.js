@@ -68383,7 +68383,7 @@ r=P.aZ(C.e.aL(p),r.gk(r)>>>16&255,r.gk(r)>>>8&255,r.gk(r)&255)}else r=P.aZ(C.e.a
 q=m.a
 p=q.cy
 q=q.ch
-return M.aK(l,new D.G0(m.ga1b(),l,D.aqS(l,l,l,l,l,l,l,p,l,new V.ao(q,q,q,q),r,l,new X.dp(K.CN(4),C.y),l,l,l,l),C.m,l,!1,new Q.ae8(m).$1(n),l),C.m,l,l,l,l,s,new V.ao(8,8,8,8),l,l,l,k)}}
+return M.aK(l,new D.G0(m.ga1b(),l,D.aqS(l,l,l,l,l,l,l,p,l,new V.ao(q,q,q,q),r,l,new X.dp(K.CN(4),C.y),l,l,l,l),C.m,l,!1,new Q.ae8(m).$1(n),l),C.m,l,l,l,l,s,new V.ao(5,5,5,5),l,l,l,k)}}
 Q.ae7.prototype={
 $0:function(){this.a.d=!0},
 $S:2}
@@ -68496,7 +68496,7 @@ r=B.fG(b,22)
 return new Z.yw(this.c,this.d,p,C.Ye,s,C.c6,C.XK,C.XL,C.a0m,16,r,C.AF,q)}}
 V.GI.prototype={
 G:function(a,b){var s=this,r=null
-return new T.dl(s.c,r,r,Q.pd(r,s.e,!1,40,!1,s.d,s.f,C.b7,0.8,8,0,140,C.b7),r)},
+return new T.dl(s.c,r,r,Q.pd(r,s.e,!1,40,!1,s.d,s.f,C.b7,0.8,5,0,140,C.b7),r)},
 gaA:function(a){return this.d}}
 E.K3.prototype={
 G:function(a,b){var s=null,r=B.fG(b,100)
@@ -68658,7 +68658,7 @@ o=p?0.2:1
 n=P.a3(["correct",k,"incorrect",q,"unlock",P.a3(["isSelected",p,"opacity",o,"onPressed",new V.af3(m,l,this.b,a)],s,r)],s,t.xS)
 s=this.c
 r=n.h(0,s).h(0,"onPressed")
-return Q.pd(C.ty,"image",!1,30,n.h(0,s).h(0,"isSelected"),a,r,null,n.h(0,s).h(0,"opacity"),0,0,250,C.n)},
+return Q.pd(C.ty,"image",!1,23,n.h(0,s).h(0,"isSelected"),a,r,null,n.h(0,s).h(0,"opacity"),0,0,250,C.n)},
 $S:91}
 V.af1.prototype={
 $0:function(){},
@@ -68734,7 +68734,7 @@ $0:function(){var s,r,q=this.a
 if(q.Q)q=new E.K3(null)
 else{s=this.b
 r=L.d0(s,C.aF,t.n).b.h(0,"start")
-q=Q.pd(null,"text",!0,B.fG(s,60),!0,r,q.y,C.b7,0.8,8,0,200,C.b7)}return q},
+q=Q.pd(null,"text",!0,B.fG(s,60),!0,r,q.y,C.b7,0.8,5,0,200,C.b7)}return q},
 $S:92}
 M.a0r.prototype={
 $0:function(){var s=this.a,r=s.x
@@ -68760,7 +68760,7 @@ F.abW.prototype={
 $0:function(){var s=null,r=this.a
 if(r.d.a.a==="")return M.aK(s,s,C.m,s,s,s,s,s,s,s,s,s,s)
 if(B.jY()==="")return M.aK(s,s,C.m,s,s,s,s,s,s,s,s,s,s)
-return new T.f7(new S.aD(0,200,0,1/0),Q.pd(s,"text",!1,30,!0,L.d0(this.b,C.aF,t.n).b.h(0,"play"),r.y,C.b7,0.8,8,65,200,C.b7),s)},
+return new T.f7(new S.aD(0,200,0,1/0),Q.pd(s,"text",!1,23,!0,L.d0(this.b,C.aF,t.n).b.h(0,"play"),r.y,C.b7,0.8,0,63,200,C.b7),s)},
 $S:92}
 F.abQ.prototype={
 $1$flex:function(a){var s,r,q,p,o,n=null,m=this.a
@@ -68775,14 +68775,14 @@ $0:function(){return this.$1$flex(null)},
 $S:63}
 F.abT.prototype={
 $1:function(a){var s=L.d0(this.b,C.aF,t.n).b.h(0,a)
-return Q.pd(null,"text",!1,15,a===B.jY(),s,new F.abS(this.a,a),C.b7,0.8,0,65,180,C.b7)},
+return Q.pd(null,"text",!1,15,a===B.jY(),s,new F.abS(this.a,a),C.b7,0.8,0,63,180,C.b7)},
 $S:91}
 F.abS.prototype={
 $0:function(){this.a.z.$1(this.b)},
 $S:2}
 F.abU.prototype={
 $1:function(a){var s=L.d0(this.b,C.aF,t.n).b.h(0,a)
-return Q.pd(null,"text",!1,15,a===B.jY(),s,new F.abR(this.a,a),C.b7,0.8,0,65,180,C.b7)},
+return Q.pd(null,"text",!1,15,a===B.jY(),s,new F.abR(this.a,a),C.b7,0.8,0,63,180,C.b7)},
 $S:91}
 F.abR.prototype={
 $0:function(){this.a.z.$1(this.b)},
@@ -68827,7 +68827,7 @@ G:function(a,b){var s=null,r=new K.abY(this),q=P.aZ(C.z.aL(178.5),255,255,255),p
 return M.aK(s,T.dW(H.a([T.cF(T.hU(H.a([new R.eh("monthlyRanking",!0,26,0.8,C.G,C.h_,s)],p),C.U,C.bJ),1),T.cF(T.hU(H.a([r.$1("rivals"),r.$1("overallRanking")],p),C.U,C.af),6)],p),C.U,C.af,C.ag),C.m,q,s,s,s,s,s,s,s,s,s)}}
 K.abY.prototype={
 $1:function(a){var s=null,r=this.a,q=t.X,p=t.c,o=P.a3(["rivals",P.a3(["text","rivals","child",new X.qv(r.f,r.c,!1,s)],q,p),"overallRanking",P.a3(["text","overallRanking","child",new X.qv(r.e,s,!0,s)],q,p)],q,t.xS)
-return T.cF(M.aK(s,T.dW(H.a([new R.eh(o.h(0,a).h(0,"text"),!0,26,1,C.G,C.h_,s),T.cF(new T.bO(new V.ao(0,8,0,0),o.h(0,a).h(0,"child"),s),1)],t.Y),C.U,C.af,C.ag),C.m,s,s,s,s,s,new V.ao(8,8,8,8),s,s,s,s),1)},
+return T.cF(M.aK(s,T.dW(H.a([new R.eh(o.h(0,a).h(0,"text"),!0,26,1,C.G,C.h_,s),T.cF(new T.bO(new V.ao(0,5,0,0),o.h(0,a).h(0,"child"),s),1)],t.Y),C.U,C.af,C.ag),C.m,s,s,s,s,s,new V.ao(5,5,5,5),s,s,s,s),1)},
 $S:40}
 F.N2.prototype={
 G:function(a,b){var s,r,q=null
