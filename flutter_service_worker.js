@@ -5,10 +5,10 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "adview.html": "8f09032c2d1767e010cbb608bda2e2a4",
 "version.json": "714ff95f27498b2ce9c6980e5e409460",
-"index.html": "5bcc21240e55c4c649d8a4aff419a691",
-"/": "5bcc21240e55c4c649d8a4aff419a691",
+"index.html": "92084252b7190cd9bb7e99df2e25976a",
+"/": "92084252b7190cd9bb7e99df2e25976a",
 "apple-touch-icon.png": "e7cf8bdfa3c27c6c1e48f84ea4d14553",
-"main.dart.js": "a9a2b4182692e01c856fcf6e424d367c",
+"main.dart.js": "2c3cfd402666c613d57b131c909719e8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "9ddd92f2553ad7ef9d1276af89faa54f",
 "icons/kokki_clicker_219.png": "677041f165cfa801f4a71c5b8f514cb6",
@@ -16,10 +16,11 @@ const RESOURCES = {
 "manifest.json": "4e210ce6e7155d81a19ac5872d8063fe",
 "favicon_kokki_clicker.png": "677041f165cfa801f4a71c5b8f514cb6",
 "credits.html": "e208289858b3ab8e9159e9f0af20b883",
-"assets/AssetManifest.json": "d924b5df178644fe437bd72a4048b7c5",
-"assets/NOTICES": "f004638d0cf928c60ef35d1ba9123467",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/AssetManifest.json": "94d923fb6aae778a12a72f90526930c8",
+"assets/NOTICES": "ede3ed4a5c3bfd6af35a9ab579315716",
+"assets/FontManifest.json": "c0c733f2f6e5d42904dbe1ead358f61c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/eva_icons_flutter/lib/fonts/evaicons.ttf": "b600c99b39c9837f405131463e91f61a",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/assets/world.png": "35547fc6e9db35c6f84d7e87689926bd",
 "assets/assets/flags/tg.png": "8c6edf3fd2f7c7f43007f630b4b20858",
@@ -276,9 +277,10 @@ const RESOURCES = {
 "assets/assets/sounds/incorrect.mp3": "128d7c3fda8719a1144ca02eae1ac636",
 "assets/assets/sounds/correct.mp3": "327398cf406c26957d79628a73364758",
 "assets/assets/sounds/main.mp3": "e48949cfa2e5002560ec3fcb7b573386",
+"assets/assets/logo.png": "677041f165cfa801f4a71c5b8f514cb6",
 "assets/assets/sinproject.png": "46da728a43b0616af5e3c6d56841cdd8",
-"assets/assets/translations/ja.json": "5db738b5a87b525868b3586b3c50a821",
-"assets/assets/translations/en.json": "bb5356700a6f2185f1241fd3a5b87fdd"
+"assets/assets/translations/ja.json": "ac9ea922f626de27551b720c59bb5b61",
+"assets/assets/translations/en.json": "ea1a8b3bb90f6064276f2eb2499b3ab5"
 };
 
 // The application shell files that are downloaded before a service worker can
